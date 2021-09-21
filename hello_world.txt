@@ -2,3 +2,4 @@ Hello World!
 Now this is my second commit.
 A change
 Making changes now using my Mac
+New changes in a new branch on Mac
